@@ -25,9 +25,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.CI_TOKEN }}
-          external_repository: tomasherman/tomasherman.github.io
           publish_dir: ./docs
-          #   keep_files: true
+          keep_files: true
           user_name: tomas.herman
           user_email: <tomas.herman@gmail.com>
           publish_branch: master
