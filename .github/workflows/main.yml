@@ -25,7 +25,8 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           personal_token: ${{ secrets.CI_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./docs # where hugo publishes files
+          destination_dir: ./docs # where github action stores those files
           keep_files: true
           user_name: tomas.herman
           user_email: <tomas.herman@gmail.com>
