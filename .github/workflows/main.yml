@@ -28,7 +28,7 @@ jobs:
           external_repository: tomasherman/tomasherman.github.io
           publish_dir: ./docs
           #   keep_files: true
-          user_name: tomasherman
-          user_email: <tomasherman@google.com>
+          user_name: tomas.herman
+          user_email: <tomas.herman@gmail.com>
           publish_branch: master
           cname: tomasherman.cz
