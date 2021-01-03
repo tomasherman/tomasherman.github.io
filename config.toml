@@ -1,4 +1,4 @@
 baseURL = "http://tomasherman.cz/"
 languageCode = "en-us"
 title = "Tomas Herman"
-theme = "ananke"
+theme = "pico"

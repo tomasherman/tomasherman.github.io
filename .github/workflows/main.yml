@@ -7,6 +7,12 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v2
 
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '15'
+      - name: Install node dependencies
+        run: npm install
+
       - name: Update theme
         # (Optional)If you have the theme added as submodule, you can pull it and use the most updated version
         run: git submodule update --init --recursive
