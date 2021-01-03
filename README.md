@@ -1,2 +1,2 @@
-- [tomasherman.github.io](tomasherman.github.io)
-- [tomasherman.cz](tomasherman.cz)
+- [tomasherman.github.io](https://tomasherman.github.io)
+- [tomasherman.cz](https://tomasherman.cz)
