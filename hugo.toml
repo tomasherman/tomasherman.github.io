@@ -1,0 +1,16 @@
+baseURL = 'https://tomasherman.cz/'
+languageCode = 'en-us'
+title = 'Tomas Herman'
+theme = 'archie'
+
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/tomasherman"
+
+[[redirects]]
+ from = "/blog/"
+ to = "https://my-site.com/url"
+ status = 200
+ force = true
