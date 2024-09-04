@@ -39,7 +39,7 @@ Pokoje je ideální vyklidit do 11:00. Pak je možne se ještě poflakovat po ar
 
 
 ## Oblečení
-Oblečte se pohodlně a hezky, jako na svatbu. S barvami si nemusíte dělat starosti.
+Oblečte se pohodlně a hezky, jako na svatbu. S barvami si nemusíte dělat starosti. Pro případ deště bude na místě k zapůjčení 25 deštníků.
 
 
 ## Dary
